@@ -144,27 +144,27 @@ img {
 
 @media screen and (max-width: 980px) {
   .topNavMenu {
-    width: 960px;
+    width: 100%;
   }
   .content {
-    width: 960px;
+    width: 100%;
   }
 }
 
 @media screen and (max-width: 768) {
   .topNavMenu {
-    width: 760px;
+    width: 100%;
   }
   .content {
-    width: 760px;
+    width: 100%;
   }
 }
 
 @media screen and (max-width: 640) {
   .topNavMenu {
-    width: 620px;
+    width: 100%;
   }
   .content {
-    width: 620px;
+    width: 100%;
   }
 }
